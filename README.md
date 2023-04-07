@@ -76,3 +76,14 @@
 
 </ul>
 </div>
+
+--
+## Author 
++ [YOUSRA -:octocat:- BDFT](https://linktr.ee/bdftyousra)
+
+---
+
+## WARNING!!
+- This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
+- This repo may contain some errors. If you notice any, please add a pull request.
+
